@@ -4,11 +4,11 @@ Dana want to create a webpage and dynamic table to help ueser easily to get UFO 
 
 ## How to use the website
 First, Dana use a table to show the UFO sightings:
-![use#1](static/images/use#1.png)
+![use_1](static/images/use_1.png)
 Then we use filter for multiple criteria:
-![use#2](static/images/use#2.png)
+![use_2](static/images/use_2.png)
 Finally, we can get the insight that we want:
-![use#3](static/images/use#3.png)
+![use_3](static/images/use_3.png)
 
 ## Summary
 
